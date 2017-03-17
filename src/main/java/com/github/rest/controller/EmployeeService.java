@@ -16,6 +16,16 @@ import javax.ws.rs.core.Response;
 import com.github.rest.dao.Employee;
 import com.github.rest.dao.EmployeeDAO;
  
+
+/**
+ * 
+ * @author kiran.rachakonda
+ * Date : 17th Mar, 2017
+ * EmployeeService to create new employee
+ * and update employee and delete and search employees..
+ *
+ */
+ 
  
 @Path("/employees")
 public class EmployeeService {
