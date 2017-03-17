@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee
 	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
 	
-	<display-name>Restful Web service</display-name>
+	<display-name>Restful Web</display-name>
 
 	<servlet>
 		<servlet-name>jersey-serlvet</servlet-name>
