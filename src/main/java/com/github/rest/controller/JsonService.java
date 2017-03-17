@@ -1,4 +1,4 @@
-package com.aspire.rest.controller;
+package com.github.rest.controller;
 
 import javax.ws.rs.Consumes;
 import javax.ws.rs.GET;
@@ -8,7 +8,7 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.aspire.rest.dto.Customer;
+import com.github.rest.dto.Customer;
 
 @Path("/json")
 public class JsonService {

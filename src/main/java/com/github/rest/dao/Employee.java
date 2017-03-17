@@ -1,4 +1,4 @@
-package com.aspire.rest.dao;
+package com.github.rest.dao;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

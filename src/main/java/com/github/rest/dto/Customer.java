@@ -1,4 +1,4 @@
-package com.aspire.rest.dto;
+package com.github.rest.dto;
 
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;

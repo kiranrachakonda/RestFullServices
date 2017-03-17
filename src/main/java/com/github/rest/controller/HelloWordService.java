@@ -1,4 +1,4 @@
-package com.aspire.rest.controller;
+package com.github.rest.controller;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;

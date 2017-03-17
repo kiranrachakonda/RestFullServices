@@ -1,4 +1,4 @@
-package com.aspire.rest.dao;
+package com.github.rest.dao;
 
 import java.util.List;
 

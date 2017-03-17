@@ -1,4 +1,4 @@
-package com.aspire.rest.controller;
+package com.github.rest.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 import javax.ws.rs.core.Response;
 
-import com.aspire.rest.dao.Employee;
-import com.aspire.rest.dao.EmployeeDAO;
+import com.github.rest.dao.Employee;
+import com.github.rest.dao.EmployeeDAO;
  
  
 @Path("/employees")
