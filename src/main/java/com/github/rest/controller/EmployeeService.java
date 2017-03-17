@@ -23,7 +23,6 @@ import com.github.rest.dao.EmployeeDAO;
  * Date : 17th Mar, 2017
  * EmployeeService to create new employee
  * and update employee and delete and search employees..
- *
  */
  
  
@@ -38,7 +37,10 @@ public class EmployeeService {
        return employees;
     }
  
-    
+    /*
+     * addEmployee() method will create new employee with name and age as input parameters 
+     * and id will be generated automatically through Hibernate
+     */
     @POST
     @Path("/create")
     @Produces(MediaType.APPLICATION_JSON)
